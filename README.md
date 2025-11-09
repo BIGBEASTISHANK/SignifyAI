@@ -1,4 +1,4 @@
-# SignifyAI
+# SonoAI
 
 > [!Important]
 > This project was previously named SignifyAI, now its name is SonoAI. This project is moved from BIGBEASTISHANK to BBICorps.
