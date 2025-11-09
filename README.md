@@ -1,7 +1,4 @@
-# SonoAI
-
-> [!Important]
-> This project was previously named SignifyAI, now its name is SonoAI. This project is moved from BIGBEASTISHANK to BBICorps.
+# SignifyAI
 
 > [!Note]
 > Built at MUJHackX 3.0, the biggest hackathon of MUJ, and we won 3rd place among 500+ teams nationwide! 🔥
